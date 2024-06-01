@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Brainlos
+- 👀 I’m interested in game dev
+- 🌱 I’m currently learning java
+- 💞️ I’m looking to collaborate on: naw im antisocial
+- 📫 How to reach me: naw im antisocial
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: you should get off this page before I find you
