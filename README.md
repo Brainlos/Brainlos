@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Brainlos
 - 👀 I’m interested in game dev
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on: naw, im antisocial
-- 📫 How to reach me: naw, im antisocial
+- 🌱 I’m currently learning webdev
+- 📖 I'm currently reading THE COMMUNIST MANIFESTO
+- 💞️ I’m looking to collaborate on the rumbling
+- 📫 How to reach me: Jaegerist discord
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: you should get off this page before I find you
+- ⚡ Fun fact: you should join the Jaegerist Party of America
