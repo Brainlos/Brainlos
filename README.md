@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Brainlos
 - 👀 I’m interested in game dev
-- 🌱 I’m currently learning webdev
-- 📖 I'm currently reading THE COMMUNIST MANIFESTO
+- 🌱 I’m currently learning js and c#
+- 📖 I'm currently reading Socialism: Utopian and Scientific
 - 💞️ I’m looking to collaborate on the rumbling
-- 📫 How to reach me: Jaegerist discord
+- 📫 How to reach me: Dann Co. discord
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: you should join the Jaegerist Party of America
+- ⚡ Fun fact: There's a spectre haunting Europe
